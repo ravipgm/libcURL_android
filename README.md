@@ -1,6 +1,7 @@
 libcURL_android
 ===============
 libcurl for android
+
 Compiled library 'libcurl.a' & 'libcurl.so' are placed at ../cURL/local/lib/
 
 This library can be used with any arm-linux-gnueabi compiler.
